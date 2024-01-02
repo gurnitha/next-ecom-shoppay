@@ -36,3 +36,10 @@
         modified:   pages/index.js
         deleted:    styles/Home.module.css
         new file:   styles/Home.module.scss
+
+#### 6. Reseting CSS styles
+
+        modified:   README.md
+        modified:   pages/_app.js
+        deleted:    styles/globals.css
+        new file:   styles/globals.scss
