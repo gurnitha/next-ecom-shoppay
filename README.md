@@ -29,3 +29,10 @@
         modified:   README.md
         modified:   package-lock.json
         modified:   package.json
+
+#### 5. Using sass for styling
+
+        modified:   README.md
+        modified:   pages/index.js
+        deleted:    styles/Home.module.css
+        new file:   styles/Home.module.scss
