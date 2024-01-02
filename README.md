@@ -54,3 +54,8 @@
 
         modified:   README.md
         modified:   styles/globals.scss
+
+#### 9. Reseting CSS styles - Box sizing part 3 - using attribute box-sizing
+
+        modified:   README.md
+        modified:   styles/globals.scss
