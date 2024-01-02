@@ -21,3 +21,11 @@
         modified:   pages/test_page.js
         modified:   styles/Home.module.css
         modified:   styles/globals.css
+
+#### 4. Installing sass for styling
+
+        λ npm install sass
+
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
