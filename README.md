@@ -13,3 +13,11 @@
         modified:   README.md
         modified:   pages/index.js
         new file:   pages/test_page.js
+
+#### 3. Styling the pages
+
+        modified:   README.md
+        modified:   pages/index.js
+        modified:   pages/test_page.js
+        modified:   styles/Home.module.css
+        modified:   styles/globals.css
