@@ -59,3 +59,9 @@
 
         modified:   README.md
         modified:   styles/globals.scss
+
+#### 10. Reseting CSS styles - Box sizing part 4 - setup global styles
+
+        modified:   README.md
+        modified:   pages/index.js
+        modified:   styles/globals.scss
