@@ -43,3 +43,9 @@
         modified:   pages/_app.js
         deleted:    styles/globals.css
         new file:   styles/globals.scss
+
+#### 7. Reseting CSS styles - Box sizing part 1
+
+        modified:   README.md
+        modified:   pages/index.js
+        modified:   styles/globals.scss
