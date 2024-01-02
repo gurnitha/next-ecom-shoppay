@@ -49,3 +49,8 @@
         modified:   README.md
         modified:   pages/index.js
         modified:   styles/globals.scss
+
+#### 8. Reseting CSS styles - Box sizing part 2 adding boder
+
+        modified:   README.md
+        modified:   styles/globals.scss
